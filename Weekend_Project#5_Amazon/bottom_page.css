@@ -1,0 +1,91 @@
+
+.bottom-page {
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    margin-top: 1rem ;
+    display: flex;
+    justify-content: center;
+    margin-top: 7rem;
+}
+.bottom-wrapper {
+    width: 81%;
+    height: 10vh;  
+    border-top: 1px solid #ccc;
+    margin-left: 10rem;
+}
+
+.orange-h2 {
+    font-size: 1rem;
+    color: #C60;
+    font-weight: 700;
+    margin-top: 0.5rem;
+    margin-left: 2rem;
+}
+
+.carousel-wrapper {
+    width: 80%;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    overflow-y: hidden;
+    overflow-x: auto;
+  
+}
+
+
+.carousel-wrapper a {
+    color: #007185;
+    font-size: 0.875rem;
+}
+
+.carousel-wrapper a:hover {
+    color: #B64924;
+    border-bottom: 1px solid #B64924;
+}
+
+.img-bottom2 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+.img-bottom3 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+.img-bottom4 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+.img-bottom5 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+.img-bottom6 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+.img-bottom7 {
+    margin-left: 1.5rem;
+    cursor: pointer;
+}
+
+
+.arrow-left {
+    margin-top: 9rem;
+    margin-right: 5rem;
+    font-size: 1.875rem;
+    width: 11px;
+    height: 15px;
+    cursor: pointer;
+}
+.arrow-right {
+    margin-top: 9rem;
+    margin-left: 5rem;
+    font-size: 1.875rem;
+    width: 11px;
+    height: 15px;
+    cursor: pointer;
+}
